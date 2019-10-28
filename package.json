@@ -1,0 +1,26 @@
+{
+  "name": "lttb",
+  "version": "1.0.0",
+  "description": "A typescript implementation of the downsample algorithm Largest Triangle Three Buckets from Sveinn Steinarsson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkocats/lttb.git"
+  },
+  "keywords": [
+    "alkocats",
+    "lttb",
+    "downsample",
+    "chart",
+    "timeseries"
+  ],
+  "author": "Benjamin Ricchiuto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alkocats/lttb/issues"
+  },
+  "homepage": "https://github.com/alkocats/lttb#readme"
+}
